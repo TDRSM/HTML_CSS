@@ -1,1 +1,1 @@
-# HTML_CSS
+# Ici se trouvera les bases d’apprentissage du langage HTML.
