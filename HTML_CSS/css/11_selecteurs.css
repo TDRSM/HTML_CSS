@@ -1,0 +1,151 @@
+*{
+    font-family: sans-serif;
+}
+
+nav{
+    background: #000;
+    color: white;
+    padding: 0 0.5em;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+
+}
+
+nav a{
+    float: left;
+    text-decoration: none;
+    color: #fff;
+    background: #000;
+    height: 2.8em;
+    line-height: 2.7em;
+    padding: 0em 2em;
+    font-size: 1.2em;
+    transition: 1s;
+}
+nav a:hover{
+    background: white;
+    color: black
+}
+
+#z1{
+    background: rgb(241, 252, 222);
+    color: black;
+    width: 1400px;
+    height: 250px;
+    margin-top: 55px;
+    margin-left: 295px;
+}
+h4{
+    text-align: left;
+    padding: 25px;
+}
+#ulz1{
+margin-top: -95px;
+padding: 65px;
+}
+mark{
+    background-color:grey;
+}
+
+#bgz2{
+    background-color: rgb(240, 233, 243);
+    height: 650px;
+    width: 1420px;
+    margin-top: 35px;
+    margin-left: 285px;
+}
+
+#square1{
+    background-color: rgb(241, 252, 222);
+    height: 500px;
+    width: 635px;
+    margin-left: 40px;
+    float: left;
+    margin-top: 45px;
+}
+h5{
+    margin-top: -25px;
+    margin-left: 25px;
+    font-size: 15px;
+}
+ol{
+    margin-top: -5px;
+    margin-left: 20px;
+    font-size: 15px;
+    text-align: left;
+}
+#square2{
+    background-color: rgb(241, 252, 222);
+    height: 570px;
+    width: 665px;
+    margin-left: 40px;
+    float: left;
+    margin-top: 45px;
+}
+#fw{
+    font-weight: bold;
+}
+#ls{
+    letter-spacing: .1rem;
+}
+#ws{
+    word-spacing: -.4ch;
+}
+#ts{
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+#bgi{
+    background-image: url("../../site/img/apple.jpg");
+    font-weight: bold;
+}
+#bgs{
+    background-image: url("../../site/img/apple.jpg");
+    background-size: contain;
+    font-weight: bold;
+}
+#opa{
+    opacity: 0.33;
+}
+#bs{
+    border-style: dashed solid;
+}
+#bsw{
+    box-shadow: 10px 5px 5px rgb(192, 252, 89);
+}
+#lsi{
+    list-style-image: initial;
+}
+#bdr{
+    border: dashed red;
+}
+#bdrr{
+    border: double blue;
+    border-radius: 5px 50px / 50px;
+}
+#bw{
+     border-width: thick;
+     border: ridge blue;
+}
+#fv{
+    font-variant: small-caps slashed-zero;
+}
+#bgc{
+    background-color: red;
+}
+#foot{
+    background-color: rgb(241, 252, 222);
+    width: 1390px;
+    margin-left: 300px;
+    height: 235px;
+}
+#foot1{
+    margin-top: -35px;
+    margin-left: 15px;
+}
+h3{
+    padding: 35px;
+}

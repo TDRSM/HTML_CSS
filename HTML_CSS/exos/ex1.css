@@ -1,0 +1,90 @@
+.c1{
+    height: 10em;
+    width: 10em;
+    border: 0.2em solid;
+    margin: 0.2em;
+    float: left;
+    text-align: center;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 23%;
+    border-bottom-right-radius: 31%;
+    border-bottom-left-radius: 35%;
+}
+.c2{
+    height: 10em;
+    width: 10em;
+    border: 0.2em solid;
+    margin: 0.2em;
+    float: left;
+    text-align: center;
+    border-top-left-radius: 41%;
+    border-top-right-radius: 0%;
+    border-bottom-right-radius: 46%;
+    border-bottom-left-radius: -8%;
+}
+.c3{
+    height: 10em;
+    width: 10em;
+    border: 0.2em solid;
+    margin: 0.2em;
+    float: left;
+    text-align: center;
+    border-radius: 50%
+}
+.c4{
+    height: 10em;
+    width: 10em;
+    border: 0.2em solid;
+    margin: 0.2em;
+    float: left;
+    text-align: center;
+    border-top-left-radius: 24%;
+    border-top-right-radius: 39%;
+    border-bottom-right-radius: 22%;
+    border-bottom-left-radius: 41%;
+}
+.c5{
+    height: 10em;
+    width: 10em;
+    border: 0.2em solid;
+    margin: 0.2em;
+    float: left;
+    text-align: center;
+    border-top-left-radius: 24%;
+    border-top-right-radius: 39%;
+    border-bottom-right-radius: 22%;
+    border-bottom-left-radius: 41%;
+}
+.c6{
+    height: 10em;
+    width: 10em;
+    border: 0.0em solid;
+    margin: 0.2em;
+    float: left;
+    text-align: center;
+    border-top-left-radius: 24%;
+    border-top-right-radius: 39%;
+    border-bottom-right-radius: 22%;
+    border-bottom-left-radius: 41%;
+}
+.c6{
+    background-color: white;
+}
+.c5{
+    background: linear-gradient(to right, blue , purple);
+}
+.c4{
+    background: linear-gradient(to right, red , crimson);
+}
+.c3{
+    background: linear-gradient(to right, yellow , lime);
+}
+.c2{
+    background: linear-gradient(to right, orange , orangered);
+}
+.c1{
+    background: linear-gradient(to right, Seagreen , SpringGreen);
+}
+.clear{
+    clear: both;
+}

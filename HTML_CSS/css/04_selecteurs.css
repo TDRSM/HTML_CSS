@@ -1,0 +1,48 @@
+body{
+    font-size: 25px;
+}
+h1{
+    background-color: white;
+    color: blue;
+}
+section p{
+    color: black;
+}
+section p:first-child{
+    color: red;
+}
+section p:last-child{
+    color: orchid;
+}
+section p:nth-child(even){
+    color: orange;
+}
+section p:nth-child(odd){
+    color: navy;
+}
+section p:nth-child(3), section p:nth-child(10){
+    color: mediumvioletred;
+}
+.zone1{
+    color: blue;
+}
+.zone2{
+    color: blueviolet;
+}
+.lime{
+    color: lime;
+}
+#zone3{
+    background-color: lightslategray;
+}
+#zone3::before{
+    content: " Rajouté AVANT ";
+    background-color: lime;
+}
+#zone3::after{
+    content: " Rajouté Apres ";
+}
+li:nth-child(2){
+    background-color: red;
+    color: yellow;
+}

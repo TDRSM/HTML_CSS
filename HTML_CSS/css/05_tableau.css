@@ -1,0 +1,37 @@
+*{
+    font-family: fantasy;
+}
+body{
+    width: 50%;
+    margin: 0 auto;
+}
+table{
+    border: 4px solid skyblue;
+    width: 90%;
+    margin: 25px;
+    border-collapse: collapse;
+}
+thead, tfoot{
+    background-color: silver;
+    border: 2px solid blue;
+}
+tbody{
+    border: 1px solid chocolate;
+}
+th{
+    border: 1px dotted darkcyan;
+    padding: 4px;
+    background-color: crimson;
+    width: 25%;
+}
+
+td{
+    font-size: 100%;
+    border: 1px dotted hotpink;
+    text-align: center;
+    padding: 5px;
+}
+td:first-child{
+    text-align: left;
+    background-color: coral ;
+}

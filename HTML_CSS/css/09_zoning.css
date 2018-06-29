@@ -1,0 +1,50 @@
+#contenu{
+    width: 80%;
+    margin: 0 auto;
+    border: 2px solid red;
+}
+
+header{
+    background-color: crimson;
+    height: 100px;
+}
+
+nav{
+    background-color: crimson;
+    height: 30px;
+}
+
+main{
+    background-color: crimson;
+    height: 500px;
+    margin: 20px;
+}
+
+#a, #b, #c, #d{
+    width: 50%;
+    height: 250px;
+    float: left;
+}
+
+#a{
+    background-color: crimson;
+}
+
+#b{
+    background-color: red;
+}
+
+#c{
+    background-color: darkred;
+}
+
+#d{
+    background-color: orangered;
+}
+
+footer{
+    background-color: orange;
+    height: 100px;
+}
+
+.clear

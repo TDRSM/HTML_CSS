@@ -1,0 +1,14 @@
+label {
+    float: left;
+    width: 105px;
+    color: blue;
+    background: rgb(255, 0, 51);
+}
+fieldset{
+    width: 25%;
+    background: rgb(255, 0, 51);
+}
+legend
+{
+    color: blue;
+}
